@@ -8,7 +8,7 @@ to workshops and adult learning, cf. also <https://www.fabriders.net/session-des
 
 ---
 
-Slides for the workshop can be viewed at: https://sdruskat.github.io/citation-file-format-cw18 with sources in [`gh-pages](https://github.com/sdruskat/citation-file-format-cw18/tree/gh-pages).
+Slides for the workshop can be viewed at: https://sdruskat.github.io/citation-file-format-cw18 with sources in [`gh-pages`](https://github.com/sdruskat/citation-file-format-cw18/tree/gh-pages).
 
 Notes taken during the session can be found here: https://bit.ly/cw18-workshop-cff
 
