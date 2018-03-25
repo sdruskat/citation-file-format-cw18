@@ -8,7 +8,7 @@ Slides: https://sdruskat.github.io/citation-file-format-cw18/
 Notes: https://bit.ly/citation-file-format-cw18
 
 Note:
-Okay, notes work! 3 blank lines = left, 2 blank lines = down
+Okay, notes work! 3 blank lines = left, 2 blank lines = down.
 
 
 
