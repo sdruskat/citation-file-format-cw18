@@ -411,8 +411,14 @@ doi: 10.5281/zenodo.1234
 date-released: 2017-12-18
 ```
 
-![RTFM! ;)](rtfm.png)
-<!-- .element height="50%" width="50%" -->
+- Copy'n'paste example from the end of the Notes doc:  
+https://bit.ly/citation-file-format-cw18
+- Use doi2cff for a software that's on Zenodo (requires Python 3):  
+http://bit.ly/doi2cff
+- Browse the specs and pick an example:  
+http://bit.ly/cff-specs-v1
+- The key-complete test file for the CFF schema:  
+http://bit.ly/cff-schema-v1
 
 
 ## Can software be made citable easily with CFF?
