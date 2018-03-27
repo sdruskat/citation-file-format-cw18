@@ -371,10 +371,6 @@ https://github.com/citation-file-format/citation-file-format
 - [Netherlands eScience Center](https://www.esciencecenter.nl/) has adopted CFF (and tooling)
 - [CiteAs.org](http://citeas.org/) is implementing CFF support
 
-![CFF Uptake](uptake.png)
-
-(Jupyter notebook: http://bit.ly/cff-codemeta-github)
-
 
 
 ## Hands-on pair activity
